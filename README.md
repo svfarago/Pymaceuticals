@@ -5,8 +5,8 @@ This is my first Pandas project using Matplotlib within a Jupyter Notebook.
 ReadMe File
 ================
 
-Updated: Jan 14, 2021 | Created: Jan 14, 2021
-Version: 7
+Updated: Jan 15, 2021 | Created: Jan 14, 2021
+Version: 2
 Copyright: open source
 
 == License ===========================
@@ -68,8 +68,10 @@ Additional Git Hub Resources: S. Saha, J. Fan, ZG. Scherrer, E. Gaga, M. Carty.
 https://www.latex-project.org/about/
 https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sem.html?highlight=sem#pandas.DataFrame.sem
 
-URLs last used: January 14, 2021
+
+URLs last used: January 15, 2021
 
 
 
