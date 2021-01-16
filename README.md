@@ -5,8 +5,8 @@ This is my first Pandas project using Matplotlib within a Jupyter Notebook.
 ReadMe File
 ================
 
-Updated: Jan 15, 2021 | Created: Jan 14, 2021
-Version: 2
+Updated: Jan 16, 2021 | Created: Jan 14, 2021
+Version: 3
 Copyright: open source
 
 == License ===========================
@@ -34,8 +34,8 @@ Play/run all rows in order from top to bottom to review code output.
 
 
 == List of Files ====================
-\pymaceuticals
-    \.ipynb_checkpoints
+\matplotlib
+    \pymaceuticals.ipynb_checkpoints
     \data
         Mouse_metadata.csv
         Study_results.csv
@@ -69,7 +69,7 @@ https://www.latex-project.org/about/
 https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sem.html?highlight=sem#pandas.DataFrame.sem
-
+https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8
 
 URLs last used: January 15, 2021
 
