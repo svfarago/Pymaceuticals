@@ -35,7 +35,7 @@ Play/run all rows in order from top to bottom to review code output.
 
 == List of Files ====================
 \matplotlib
-    \pymaceuticals.ipynb_checkpoints
+    \.ipynb_checkpoints
     \data
         Mouse_metadata.csv
         Study_results.csv
