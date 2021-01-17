@@ -62,9 +62,16 @@ None.
 #print hashtags are used liberally throughout the code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags for code notes/additional information.
 
 Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). 
-Additional Git Hub Resources: S. Saha, J. Fan, ZG. Scherrer, E. Gaga, M. Carty.
+Additional Git Hub Resources: B.Anderson
+
+Course materials:
+aesthetics.ipynb
+bar_chart.ipynb
+pie_chart.ipynb
 
 
+
+Web URLs:
 https://www.latex-project.org/about/
 https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
@@ -72,7 +79,7 @@ https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sem.
 https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8
 https://matplotlib.org/3.1.1/gallery/misc/zorder_demo.html
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.pie.html
-
+https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/
 
 
 URLs last used: January 15, 2021
