@@ -70,6 +70,10 @@ https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sem.html?highlight=sem#pandas.DataFrame.sem
 https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8
+https://matplotlib.org/3.1.1/gallery/misc/zorder_demo.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.pie.html
+
+
 
 URLs last used: January 15, 2021
 
