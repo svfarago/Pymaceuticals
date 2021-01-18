@@ -69,7 +69,7 @@ Course materials:
 aesthetics.ipynb
 bar_chart.ipynb
 pie_chart.ipynb
-
+samples.ipynb
 
 
 Web URLs:
