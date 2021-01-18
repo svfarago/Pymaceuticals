@@ -63,7 +63,7 @@ None.
 #print hashtags are used liberally throughout the code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags are used for code notes/additional information.
 
 Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). 
-Additional Git Hub Resources: B.Anderson
+Additional Git Hub Resources: B.Anderson, E.Gaga
 
 Course materials:
 aesthetics.ipynb
