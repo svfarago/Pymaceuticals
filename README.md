@@ -50,8 +50,9 @@ See \Resources folder above or in pymaceuticals directory.
 
 
 == Data Alterations =======================
-List any data removed from dataset and not used for analysis. List why and possible impact to analysis (if any).
+Original data set contains 249 mouse IDs (numeric value based on column "Mouse ID"). The study results in file sutdy_results.csv contains duplicate drug data for mouse ID g989. All data for mouse ID g989 was removed resulting in an adjusted data set containing 248 Mouse IDs upon which all calculations and charts are based. See "Data Clean" section in Jupyter Notebook for code details. 
 
+Analysis Impact: Removing Mouse ID record g989 should not impact the overall results.
 
 
 == Known Bugs =====================
@@ -59,7 +60,7 @@ None.
 
 
 == Troubleshooting ===============
-#print hashtags are used liberally throughout the code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags for code notes/additional information.
+#print hashtags are used liberally throughout the code to run individual lines of code for additional testing/troubleshooting, and general comment hashtags are used for code notes/additional information.
 
 Resources used to build and troubleshoot this code are listed below, in addition to help and code peer review from students, instructor, and TA's in class and external tutor (N.Tsai). 
 Additional Git Hub Resources: B.Anderson
@@ -73,16 +74,15 @@ pie_chart.ipynb
 
 Web URLs:
 https://www.latex-project.org/about/
-https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sem.html?highlight=sem#pandas.DataFrame.sem
-https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8
 https://matplotlib.org/3.1.1/gallery/misc/zorder_demo.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.pie.html
 https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html
+https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.pie.html
+https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sem.html?highlight=sem#pandas.DataFrame.sem
 
-
-URLs last used: January 15, 2021
+URLs last used: January 18, 2021
 
 
 
