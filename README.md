@@ -66,6 +66,8 @@ Resources used to build and troubleshoot this code are listed below, in addition
 Additional Git Hub Resources: B.Anderson, E.Gaga
 
 Course materials:
+mpg.ipynb
+NJ_temp.ipynb
 aesthetics.ipynb
 bar_chart.ipynb
 pie_chart.ipynb
