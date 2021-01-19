@@ -88,6 +88,7 @@ regression.ipynb
 
 Web URLs:
 https://www.latex-project.org/about/
+https://jamesrledoux.com/code/group-by-aggregate-pandas
 https://matplotlib.org/3.1.1/gallery/misc/zorder_demo.html
 https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html
 https://matplotlib.org/3.1.1/gallery/statistics/boxplot_demo.html
