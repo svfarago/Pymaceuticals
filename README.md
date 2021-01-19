@@ -89,6 +89,7 @@ regression.ipynb
 Web URLs:
 https://www.latex-project.org/about/
 https://matplotlib.org/3.1.1/gallery/misc/zorder_demo.html
+https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html
 https://matplotlib.org/3.1.1/gallery/statistics/boxplot_demo.html
 https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.scatter.html
 https://railsware.com/blog/python-for-machine-learning-pandas-axis-explained/
